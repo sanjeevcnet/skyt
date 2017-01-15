@@ -4,9 +4,6 @@ If your download hasn't started, click here to download manually.
 
 Other Git for Windows downloads
 Git for Windows Setup
-32-bit Git for Windows Setup.
-
-64-bit Git for Windows Setup.
 
 Git for Windows Portable ("thumbdrive edition")
 32-bit Git for Windows Portable.
