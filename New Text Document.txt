@@ -6,8 +6,11 @@ Other Git for Windows downloads
 Git for Windows Setup
 
 Git for Windows Portable ("thumbdrive edition")
-32-bit Git for Windows Portable.
 
-64-bit Git for Windows Portable.
+If your download hasn't started, click here to download manually.
+If your download hasn't started, click here to download manually.
+If your download hasn't started, click here to download manually.
+If your download hasn't started, click here to download manually.
+
 
 The current source code release is version 2.11.0. If you want th
